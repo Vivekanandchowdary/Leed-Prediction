@@ -1,9 +1,14 @@
 
+# LEED PREDICTION
+## ABOUT
+
 This project focuses on developing a deep learning model to predict the likelihood of a lead converting to a customer
 based on their activity logs. The data is extracted from a PostgreSQLdatabase, where activity logs are organized and
 processed using SQL queries to create viewsand pivot tables. These tables provide a structured format for the log events
 associated with various projects, capturing the timestamps and frequencies of specific actions like questionnaire and 
 proposal activities.
+
+## USED TOOLS
 
 The model is built using TensorFlow and Keras, incorporating a sequential architecture with layers designed for efficient 
 feature extraction and prediction. The data is preprocessed, normalized, and then used to train the model. Once trained,
