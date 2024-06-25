@@ -14,13 +14,9 @@ the model's performance is evaluated on key metrics such as accuracy and loss. T
 high-potential leads, thereby aiding in strategic decision-making and resource allocation in customer acquisition efforts.
 
 ## TOOLS
-### Python Libraries:
-pandas
-numpy
-matplotlib
-tensorflow & keras
-sklearn (scikit-learn)
-## Database Connection:
+### Python Libraries
+pandas, numpy, matplotlib, tensorflow & keras, sklearn (scikit-learn)
+## Database Connection
 psycopg2
-### SQL:
+### SQL
 Used to execute queries for creating views and pivot tables within the PostgreSQL database, organizing the activity log data for further analysis.
